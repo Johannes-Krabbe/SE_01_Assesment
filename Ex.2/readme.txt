@@ -1,5 +1,5 @@
 This Programm is written by Johannes Krabbe on the 11.05.2021
-it is part of the "Dojo-Style SE_01 Assessment" at the CODE University
+it is part of the "Dojo-Style SE_01 Assessment" at the CODE University (this is the Solution for Ex. 1 and Ex. 2)
 
 to run this code you need Python 3.8.6
 
